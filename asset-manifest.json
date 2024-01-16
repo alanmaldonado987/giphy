@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/giphy/static/js/main.a2bac426.js",
+    "index.html": "/giphy/index.html",
+    "main.a2bac426.js.map": "/giphy/static/js/main.a2bac426.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a2bac426.js"
+  ]
+}
